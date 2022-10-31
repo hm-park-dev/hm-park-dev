@@ -1,9 +1,10 @@
 <div align="center">
   
-# PARK HAEMI 🐾
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PARK%20HAEMI&fontSize=50)
+🐾
 
 <a href="mailto:hmpark042@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmpark042@gmail.com"/></a> <a href="https://velog.io/@nyamnyam"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@nyamnyam"/></a>
-  
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hm-park-dev&show_icons=true&theme=calm)
 ](https://github.com/anuraghazra/github-readme-stats)
 
