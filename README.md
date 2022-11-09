@@ -1,15 +1,19 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HAEMI%20PARK&fontSize=50)
-🐾
-
-<a href="mailto:hmpark042@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmpark042@gmail.com"/></a> <a href="https://velog.io/@nyamnyam"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@nyamnyam"/></a>
+  
+<a href="mailto:hmpark042@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmpark042@gmail.com"/></a> 
+<a href="https://velog.io/@nyamnyam"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@nyamnyam"/></a>  
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hm-park-dev&show_icons=true&theme=calm)
 ](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<div align="center">
+  <h4>📖 SKILL</h4>
+</div>
   
-## SKILL
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
